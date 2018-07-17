@@ -1,0 +1,16 @@
+C:\Users\Gizem\source\repos\TourCompany\TourCompany\bin\Debug\TourCompany.exe.config
+C:\Users\Gizem\source\repos\TourCompany\TourCompany\bin\Debug\TourCompany.exe
+C:\Users\Gizem\source\repos\TourCompany\TourCompany\bin\Debug\TourCompany.pdb
+C:\Users\Gizem\source\repos\TourCompany\TourCompany\bin\Debug\EntityFramework.dll
+C:\Users\Gizem\source\repos\TourCompany\TourCompany\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gizem\source\repos\TourCompany\TourCompany\bin\Debug\EntityFramework.xml
+C:\Users\Gizem\source\repos\TourCompany\TourCompany\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gizem\source\repos\TourCompany\TourCompany\obj\Debug\TourCompany.Properties.Resources.resources
+C:\Users\Gizem\source\repos\TourCompany\TourCompany\obj\Debug\TourCompany.csproj.GenerateResource.Cache
+C:\Users\Gizem\source\repos\TourCompany\TourCompany\obj\Debug\TourCompany.csproj.CoreCompileInputs.cache
+C:\Users\Gizem\source\repos\TourCompany\TourCompany\obj\Debug\TourCompany.exe
+C:\Users\Gizem\source\repos\TourCompany\TourCompany\obj\Debug\TourCompany.pdb
+C:\Users\Gizem\source\repos\TourCompany\TourCompany\obj\Debug\TourCompany.LoginForm.resources
+C:\Users\Gizem\source\repos\TourCompany\TourCompany\obj\Debug\TourCompany.RequestForm.resources
+C:\Users\Gizem\source\repos\TourCompany\TourCompany\obj\Debug\TourCompany.SalesOperationsForm.resources
+C:\Users\Gizem\source\repos\TourCompany\TourCompany\obj\Debug\TourCompany.csprojResolveAssemblyReference.cache
